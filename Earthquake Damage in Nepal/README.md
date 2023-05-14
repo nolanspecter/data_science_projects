@@ -1,0 +1,3 @@
+Due to privacy and technical reasons, this project was completed on a virtual machine that was connected directly to the database. The provided code will not be able to execute when cloned unless connected to the same database.
+
+Since the project was completed on a virtual machine, there will only be one commit that upload the whole project rather than multiple commits showing iterative process of the project
